@@ -1,1 +1,3 @@
-# Data of one-on-one-guitar-lessons
+# Guitar Lesson Data
+
+one-on-one classical guitar lessons
