@@ -1,0 +1,170 @@
+﻿Speaker,start,end,time,ITL,ICL
+Music,0:00:00,0:01:49,0:01:49,,
+Music,0:01:49,0:02:50,0:01:01,,
+Music,0:02:50,0:02:53,0:00:03,,
+Music,0:03:07,0:04:10,0:01:03,,
+Music,0:04:21,0:04:55,0:00:34,,
+Music,0:04:56,0:06:20,0:01:24,,
+Music,0:06:21,0:06:43,0:00:22,,
+Music,0:06:44,0:06:54,0:00:10,,
+Music,0:06:55,0:07:57,0:01:02,,
+Music,0:07:58,0:08:27,0:00:29,,
+Music,0:08:31,0:08:38,0:00:07,,
+Music,0:08:39,0:09:36,0:00:57,,
+Music,0:09:43,0:09:50,0:00:07,,
+Music,0:09:52,0:11:06,0:01:14,,
+Music,0:11:06,0:11:08,0:00:02,,
+Music,0:11:09,0:11:27,0:00:18,,
+Music,0:11:28,0:11:37,0:00:09,,
+Music,0:11:39,0:12:55,0:01:16,,
+Music,0:12:57,0:13:16,0:00:19,,
+Music,0:13:18,0:13:45,0:00:27,,
+Music,0:13:45,0:13:55,0:00:10,,
+Music,0:13:58,0:14:01,0:00:03,,
+Music,0:14:02,0:14:54,0:00:52,,
+Music,0:14:54,0:15:26,0:00:32,,
+Music,0:15:27,0:15:28,0:00:01,,
+Music,0:15:29,0:16:04,0:00:35,,
+Music,0:16:08,0:16:32,0:00:24,,
+Music,0:16:32,0:16:35,0:00:03,,
+Music,0:16:35,0:16:41,0:00:06,,
+Music,0:16:42,0:18:03,0:01:21,,
+Music,0:18:04,0:19:59,0:01:55,,
+Music,0:20:00,0:20:04,0:00:04,,
+Music,0:20:05,0:20:25,0:00:20,,
+Music,0:20:26,0:20:47,0:00:21,,
+Music,0:20:52,0:20:59,0:00:07,,
+Music,0:21:05,0:21:06,0:00:01,,
+Music,0:21:07,0:21:23,0:00:16,,
+S-Speech,0:03:03,0:03:05,0:00:02,,
+S-Speech,0:03:54,0:03:58,0:00:04,,
+S-Speech,0:04:16,0:04:19,0:00:03,,
+S-Speech,0:07:02,0:07:05,0:00:03,,
+S-Speech,0:08:21,0:08:23,0:00:02,,
+S-Speech,0:08:31,0:08:32,0:00:01,,
+S-Speech,0:15:21,0:15:22,0:00:01,,
+S-Speech,0:16:02,0:16:06,0:00:04,,
+S-Speech,0:16:22,0:16:24,0:00:02,,
+S-Speech,0:16:36,0:16:37,0:00:01,,
+S-Speech,0:18:06,0:18:07,0:00:01,,
+S-Speech,0:20:48,0:20:51,0:00:03,,
+T-Speech,0:02:50,0:03:14,0:00:24,Other,"Giving Practice
+"
+T-Speech,0:03:22,0:03:31,0:00:09,Musical Expression,"Giving Feedback
+"
+T-Speech,0:03:41,0:03:49,0:00:08,Musical Expression,"Giving Practice
+"
+T-Speech,0:04:00,0:04:04,0:00:04,Musical Expression,"Giving Feedback
+"
+T-Speech,0:04:09,0:04:15,0:00:06,Other,"Giving Subjective Information
+"
+T-Speech,0:04:38,0:04:40,0:00:02,Musical Expression,"Giving Feedback
+"
+T-Speech,0:04:44,0:04:46,0:00:02,Musical Expression,"Giving Feedback
+"
+T-Speech,0:05:04,0:05:14,0:00:10,Other,"Giving Subjective Information
+"
+T-Speech,0:05:24,0:05:30,0:00:06,Technique,"Giving Feedback
+"
+T-Speech,0:05:34,0:05:38,0:00:04,Technique,"Giving Feedback
+"
+T-Speech,0:05:45,0:06:02,0:00:17,Technique,"Giving Feedback
+"
+T-Speech,0:06:14,0:06:18,0:00:04,Musical Expression,"Giving Feedback
+"
+T-Speech,0:06:22,0:06:23,0:00:01,Musical Expression,"Giving Practice
+"
+T-Speech,0:06:32,0:06:34,0:00:02,Technique,"Giving Practice
+"
+T-Speech,0:06:46,0:07:02,0:00:16,Technique,"Giving Practice
+"
+T-Speech,0:07:32,0:07:33,0:00:01,Musical Expression,"Giving Feedback
+"
+T-Speech,0:07:36,0:07:40,0:00:04,Technique,"Giving Feedback
+"
+T-Speech,0:07:41,0:07:44,0:00:03,Technique,"Giving Practice
+"
+T-Speech,0:07:50,0:07:56,0:00:06,Musical Expression,"Giving Feedback
+"
+T-Speech,0:08:04,0:08:20,0:00:16,Musical Expression,"Giving Practice
+"
+T-Speech,0:08:24,0:08:30,0:00:06,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:08:36,0:08:38,0:00:02,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:08:58,0:09:02,0:00:04,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:09:11,0:09:17,0:00:06,Musical Expression,"Giving Practice
+"
+T-Speech,0:09:53,0:09:57,0:00:04,Musical Expression,"Giving Practice
+"
+T-Speech,0:10:03,0:10:04,0:00:01,Musical Expression,"Giving Practice
+"
+T-Speech,0:10:54,0:10:57,0:00:03,Musical Expression,"Giving Practice
+"
+T-Speech,0:11:01,0:11:05,0:00:04,Musical Expression,"Giving Practice
+"
+T-Speech,0:11:22,0:11:32,0:00:10,Musical Expression,"Giving Practice
+"
+T-Speech,0:11:54,0:11:55,0:00:01,Musical Expression,"Giving Feedback
+"
+T-Speech,0:12:29,0:12:55,0:00:26,Musical Expression,"Giving Practice
+"
+T-Speech,0:13:04,0:13:05,0:00:01,Musical Expression,"Giving Practice
+"
+T-Speech,0:13:30,0:13:37,0:00:07,Musical Expression,"Giving Practice
+"
+T-Speech,0:13:42,0:14:02,0:00:20,Musical Expression,"Giving Practice
+"
+T-Speech,0:14:12,0:14:18,0:00:06,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:14:33,0:14:34,0:00:01,Musical Style,"Giving Feedback
+"
+T-Speech,0:14:47,0:14:48,0:00:01,Musical Style,"Giving Subjective Information
+"
+T-Speech,0:14:55,0:14:56,0:00:01,Musical Style,"Giving Objective Information
+"
+T-Speech,0:15:12,0:15:13,0:00:01,Musical Style,"Giving Subjective Information
+"
+T-Speech,0:15:18,0:15:20,0:00:02,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:15:25,0:15:26,0:00:01,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:15:33,0:15:43,0:00:10,Musical Style,"Giving Objective Information
+"
+T-Speech,0:15:54,0:15:56,0:00:02,Musical Expression,"Giving Practice
+"
+T-Speech,0:16:12,0:16:13,0:00:01,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:16:19,0:16:21,0:00:02,Musical Expression,"Giving Practice
+"
+T-Speech,0:16:28,0:16:30,0:00:02,Musical Expression,"Giving Feedback
+"
+T-Speech,0:16:37,0:16:39,0:00:02,Musical Expression,"Giving Feedback
+"
+T-Speech,0:16:48,0:16:55,0:00:07,Technique,"Giving Practice
+"
+T-Speech,0:17:04,0:17:07,0:00:03,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:17:25,0:17:33,0:00:08,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:17:38,0:17:43,0:00:05,Musical Expression,"Giving Feedback
+"
+T-Speech,0:17:57,0:18:00,0:00:03,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:18:16,0:18:30,0:00:14,Musical Expression,"Giving Objective Information
+"
+T-Speech,0:18:38,0:18:43,0:00:05,Musical Expression,"Giving Subjective Information
+"
+T-Speech,0:18:57,0:18:58,0:00:01,Musical Expression,"Giving Feedback
+"
+T-Speech,0:19:40,0:19:55,0:00:15,Technique,"Giving Practice
+"
+T-Speech,0:20:27,0:20:28,0:00:01,Technique,"Giving Practice
+"
+T-Speech,0:20:33,0:20:35,0:00:02,Musical Expression,"Giving Practice
+"
+T-Speech,0:20:52,0:20:54,0:00:02,Other,"Giving Subjective Information
+"
+T-Speech,0:21:11,0:21:18,0:00:07,Technique,"Giving Feedback
+"
