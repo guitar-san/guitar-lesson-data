@@ -1,0 +1,9 @@
+labels	start	stop
+noEnergy	0.0	0.34
+music	0.34	2.16
+noEnergy	2.16	3.6
+speech	3.6	106.72
+music	106.72	107.86
+noEnergy	107.86	110.2
+music	110.2	163.86
+noEnergy	163.86	165.98
