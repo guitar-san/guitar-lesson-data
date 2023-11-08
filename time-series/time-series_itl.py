@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 import streamlit as st
 import xlwings
 
-df= pd.read_excel('./分析データto三浦さん/エクセルファイル/ameria(修正+label).xlsx', sheet_name='3')
+df= pd.read_csv('./resource_data/LS1-1.csv')
 
 total_time=sum((df['end']-df['start']).dt.total_seconds()/60) #合計時間
 df_m=df[(df['Speaker']=='Music')]
@@ -28,10 +28,10 @@ s_ratio=(s_time/total_time)*100 #稼働率
 
 fig= px.timeline(df, x_start="start", x_end="end", y="Speaker",
                  #category_orders={"Speaker":["Music","T-Speech","S-Speech"]},
-                 color="label(大)", color_discrete_map={'(a)楽曲の音楽様式':'green',
-                                                      '(b)意図的に用いる音楽表現':'orange',
-                                                      '(c)身体的なテクニック':'red',
-                                                      '(d)その他':'gray',
+                 color="ITL", color_discrete_map={'Musical Style':'green',
+                                                      'Musical Expression':'orange',
+                                                      'Technique':'red',
+                                                      'Other':'gray',
                                                       '-':'blue'})#大分類で色分け
                             #color_discrete_map={'A':'rgb(255,50,50)',
                                                                    #'B':'rgb(255,153,50)',
