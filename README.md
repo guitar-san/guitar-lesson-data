@@ -2,7 +2,7 @@
 
 This is dataset regarding one-on-one classical guitar lessons, categorized by the pieces of music (LS1 to 7) for which two or more lessons were conducted. There are a total of 24 data entries.
 
-## Overview
+## Data
 
 * inaSpeechSegmenter: Audio segments detected using [inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter)). It comprises four elements: music, speech, noise, and noEnergy.
 
